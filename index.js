@@ -22,4 +22,3 @@ var destructivelyDeleteFromObjectByKey = function(object, key){
   return object
 }
 
-destructivelyDeleteFromObjectByKey()
